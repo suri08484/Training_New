@@ -1,2 +1,1 @@
-# Tranining
-Tranining
+Training_New File
